@@ -16,6 +16,4 @@
 16. Redação oficial: escrita de textos formais e Manual de Redação da Presidência da República (disponível no sítio do Planalto, na internet).
 17. [Novo Acordo Ortográfico](https://www.normaculta.com.br/novo-acordo-ortografico/).
 
-Próximo [[2-LÍNGUA INGLESA]]
 [Voltar para INDICE](https://github.com/andersonjeronimo/concurso_caixa_2024/blob/main/0.%20INDEX.md)
- 
