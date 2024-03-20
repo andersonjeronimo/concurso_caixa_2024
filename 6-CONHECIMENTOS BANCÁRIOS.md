@@ -45,6 +45,4 @@
 45. Gestão da qualidade em serviços.
 46. Lei nº 7.998/1990 (Programa Desemprego e Abono Salarial - beneficiários e critérios para saque).(DUPLICADO COM ITEM 39)
 
-Anterior [[5-COMPORTAMENTOS ÉTICOS E COMPLIANCE]]
-Próximo [[7-CONHECIMENTOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO]]
-Voltar [[0. INDEX]]
+[Voltar para o ÍNDICE](https://github.com/andersonjeronimo/concurso_caixa_2024/blob/main/0.%20INDEX.md)
