@@ -4,6 +4,4 @@
 4. Medidas de dispersão (em dados brutos ou agrupados em classes): amplitude, variância, desvio padrão e coeficiente de variação. 
 5. Probabilidade: experimento aleatório, espaço amostral, evento; espaços equiprováveis; probabilidade de Laplace; espaços não equiprováveis; teorema do produto; probabilidade condicional e independência; distribuição binomial.
 
-Anterior [[3-MATEMÁTICA FINANCEIRA]]
-Próximo [[5-COMPORTAMENTOS ÉTICOS E COMPLIANCE]]
-Voltar [[0. INDEX]]
+[Voltar para o ÍNDICE](https://github.com/andersonjeronimo/concurso_caixa_2024/blob/main/0.%20INDEX.md)
