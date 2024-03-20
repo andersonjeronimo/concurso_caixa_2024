@@ -17,5 +17,4 @@
 17. [Decreto nº 8.727 de 2016](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8727.htm) dispõe sobre o uso do nome social e o reconhecimento da identidade de gênero de pessoas travestis e transexuais.
 18. [Decreto nº 5.296 de 2004](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm) relacionado à prioridade de atendimento às pessoas que especifica e promove a acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, [Decreto nº 5.904 de 2006](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/d5904.htm) sobre o direito da pessoa com deficiência visual de ingressar e permanecer em ambientes de uso coletivo acompanhada de cão-guia.
 
-Anterior [[8-CONHECIMENTOS E COMPORTAMENTOS DIGITAIS]]
-Voltar para índice -> [[0. INDEX]] 
+[Voltar para o ÍNDICE](https://github.com/andersonjeronimo/concurso_caixa_2024/blob/main/0.%20INDEX.md)
