@@ -16,6 +16,4 @@
 16. Noções sobre Agilidade: o "ser digital" e a transformação das empresas; Startups e Fintechs; o paradigma ágil; o manifesto ágil, os conceitos e os valores da agilidade; O perfil de um profissional ágil; Como identificar e entregar "valor" para o cliente digital.
 17. Noções sobre Open Finance; 17 - Noções de Compliance; Noções de LGPD.
 
-Anterior [[6-CONHECIMENTOS BANCÁRIOS]]
-Próximo [[8-CONHECIMENTOS E COMPORTAMENTOS DIGITAIS]]
-Voltar para índice -> [[0. INDEX]] 
+[Voltar para o ÍNDICE](https://github.com/andersonjeronimo/concurso_caixa_2024/blob/main/0.%20INDEX.md)
