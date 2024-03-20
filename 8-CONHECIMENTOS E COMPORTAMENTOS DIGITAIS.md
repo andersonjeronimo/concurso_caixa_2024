@@ -17,6 +17,4 @@
 17. Técnicas e boas práticas para o trabalho à distância.
 18. Aprender a aprender e Aprendizagem contínua (Life long learning).
 
-Anterior [[7-CONHECIMENTOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO]]
-Próximo [[9-ATENDIMENTO BANCÁRIO]]
-Voltar para índice -> [[0. INDEX]] 
+[Voltar para o ÍNDICE](https://github.com/andersonjeronimo/concurso_caixa_2024/blob/main/0.%20INDEX.md)
