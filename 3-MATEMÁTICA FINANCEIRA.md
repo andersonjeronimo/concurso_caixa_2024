@@ -7,6 +7,4 @@
 7. Descontos: racional composto e comercial simples.
 8. Sequências numéricas: leis de formação expressas de forma geral (em função da posição do termo) ou de forma recursiva (em função de um ou mais termos anteriores); progressões aritméticas; progressões geométricas.
 
-Anterior [[2-LÍNGUA INGLESA]] 
-Próximo [[4-NOÇÕES DE PROBABILIDADE E ESTATÍSTICA]] 
-Voltar [[0. INDEX]]
+[Voltar para o ÍNDICE](https://github.com/andersonjeronimo/concurso_caixa_2024/blob/main/0.%20INDEX.md)
