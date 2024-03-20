@@ -9,6 +9,4 @@
 9. [Política de Responsabilidade Socioambiental da Caixa Econômica Federal](https://www.caixa.gov.br/sustentabilidade/prsac-caixa/Paginas/default.aspx) (disponível no sítio da CAIXA na internet). 
 10. Boas práticas de governança corporativa.
 
-Anterior [[4-NOÇÕES DE PROBABILIDADE E ESTATÍSTICA]]
-Próximo [[6-CONHECIMENTOS BANCÁRIOS]] 
-Voltar [[0. INDEX]]
+[Voltar para o ÍNDICE](https://github.com/andersonjeronimo/concurso_caixa_2024/blob/main/0.%20INDEX.md)
